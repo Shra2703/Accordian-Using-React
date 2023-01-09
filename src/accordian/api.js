@@ -28,11 +28,6 @@ export const questions = [
     question: "What is the importance of React in modern world",
     answer:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veritatis nesciunt illo id rem dolore repellendus",
-  },
-  {
-    id: 6,
-    question: "What is the importance of React in modern world",
-    answer:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veritatis nesciunt illo id rem dolore repellendus",
-}
+  }
+ 
 ];

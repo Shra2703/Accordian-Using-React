@@ -4,7 +4,7 @@ const Myaccordian = ({ question, answer }) => {
   const [show, setShow] = useState(false);
   return (
     <>
-      <div className="main-head">
+      <div className="main-heading">
         <p
           onClick={() => {
             setShow(!show);
@@ -14,7 +14,7 @@ const Myaccordian = ({ question, answer }) => {
         </p>
         <h3>{question}</h3>
       </div>
-      <p className="answer">{answer}</p>
+      {show && <p className="answer">{answer}</p>}
     </>
   );
 };
