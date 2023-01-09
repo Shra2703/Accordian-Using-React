@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Accordian-Using-React/static/css/main.4ed58933.css",
+    "main.js": "/Accordian-Using-React/static/js/main.89ef6d08.js",
+    "index.html": "/Accordian-Using-React/index.html",
+    "main.4ed58933.css.map": "/Accordian-Using-React/static/css/main.4ed58933.css.map",
+    "main.89ef6d08.js.map": "/Accordian-Using-React/static/js/main.89ef6d08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ed58933.css",
+    "static/js/main.89ef6d08.js"
+  ]
+}
